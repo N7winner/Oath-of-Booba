@@ -5,7 +5,7 @@
 
 The game is a 2D puzzle adventure with platformer elements. 
 
-I carried out the role of the game designer, product manager, and sound designer for this project. The core gameplay, mechanics, the main concept of the game, music, voice-over, design documents, planning and team coordination were done by me. Since the experience of creating a game in a team within 72 hours was a first for me and my team members, we had some difficulties making it in time. However, it happened mainly because one of the team members has dropped out. The planning, as well as production, went really well! 
+I carried out the role of the game designer, product manager, and sound designer for this project. The core gameplay, mechanics, the main concept of the game, music, voice-over, part of level design, design documents, planning and team coordination were done by me. Since the experience of creating a game in a team within 72 hours was a first for me and my team members, we had some difficulties making it in time. However, it happened mainly because one of the team members has dropped out. The planning, as well as production, went really well! 
 
 ![image](https://user-images.githubusercontent.com/51217675/143909757-cc15dae2-af9c-4ff8-a227-7f9318bb1540.png)
 
